@@ -1,0 +1,4 @@
+Old hoardings: Detected
+Reason: OCR not available or no readable text; Tilt/spread high (score=1.00) — likely leaning/warp
+Risk Level: 49%
+Authorities: monitor / schedule inspection as needed.

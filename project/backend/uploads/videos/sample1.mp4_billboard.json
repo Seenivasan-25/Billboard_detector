@@ -1,0 +1,13 @@
+{
+  "video": "sample1.mp4",
+  "detected": true,
+  "billboard_image": "C:\\Users\\somas\\Documents\\back end\\bolts\\project\\backend\\uploads\\videos\\sample1.mp4_billboard.jpg",
+  "avg_coords_xyxy": [
+    20,
+    8,
+    776,
+    420
+  ],
+  "notes": "YOLO used",
+  "message": "Billboard detected successfully"
+}

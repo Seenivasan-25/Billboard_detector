@@ -1,0 +1,19 @@
+{
+    "image": "C:\\Users\\somas\\Documents\\back end\\bolts\\project\\backend\\uploads\\billingboard1.jpg",
+    "timestamp": "2025-08-25T11:56:42.281633Z",
+    "old_hoarding_detected": true,
+    "risk_score": 0.7015889224465153,
+    "risk_percent": 70,
+    "reasons": [
+        "OCR not available or no readable text",
+        "Tilt high (score=1.00)",
+        "Rust suspected (score=0.84)"
+    ],
+    "metrics": {
+        "tilt": 1.0,
+        "rust": 0.8408366891629306,
+        "damage": 0.32605921388386444,
+        "fade": 0.2986494668481652,
+        "ocr_conf": 0.0
+    }
+}

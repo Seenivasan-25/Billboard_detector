@@ -1,0 +1,19 @@
+{
+    "image": "C:\\Users\\somas\\Documents\\back end\\bolts\\project\\backend\\uploads\\Screenshot_2025-08-22_180700.png",
+    "timestamp": "2025-08-24T13:41:39.567621Z",
+    "old_hoarding_detected": true,
+    "risk_score": 0.7240458333330722,
+    "risk_percent": 72,
+    "reasons": [
+        "OCR not available or no readable text",
+        "Tilt high (score=1.00)",
+        "Rust suspected (score=1.00)"
+    ],
+    "metrics": {
+        "tilt": 1.0,
+        "rust": 1.0,
+        "damage": 0.37618333333228837,
+        "fade": 0.0,
+        "ocr_conf": 0.0
+    }
+}
